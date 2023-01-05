@@ -1,3 +1,3 @@
 import a lot of racist words
-print(something)
+print(something bin(4))
 
